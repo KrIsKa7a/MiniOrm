@@ -1,2 +1,2 @@
 # MiniOrm
-Creating own ORM which works as extension to EFCore.
+Creating own ORM based on EFCore. Functionallity is minified for educational purposes.
